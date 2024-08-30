@@ -3,7 +3,7 @@
 @tailwind utilities;
 
 body {
-  background-color: #FFFFFF;
+  background-color: #ffffff;
   margin: 0;
   font-family: "Roboto", sans-serif;
   font-weight: 300;
@@ -13,12 +13,12 @@ body {
 }
 
 code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
     monospace;
 }
 
-#login-container {
+#container {
   align-self: center;
   justify-self: center;
-  width: 388px;
+  width: 400px;
 }
